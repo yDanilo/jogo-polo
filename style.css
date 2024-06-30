@@ -86,7 +86,7 @@ body {
     animation: pulo 500ms ease-out;
 }
 
-#pontuação {
+#score {
     position: absolute;
     top: 20px; 
     right: 20px; 
